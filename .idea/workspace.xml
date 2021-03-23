@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5391a8b9-bee0-4e0f-acbc-4a4e7933ac16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/constructorReference/ConstructorReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/StudentDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/BiFunctionInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/BinaryOperatorFunIntExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/FunctionIntStudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/FunctionInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/FunctionInterfaceExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/SupplierFunctionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/UnaryOperatorFunIntExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/BiPredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/LambdaVariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/LambdaVariableExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/PredicateAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/lambda/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/methodReference/ConsumerMethodReExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/methodReference/MethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/methodReference/RefractorMethodRefExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="5391a8b9-bee0-4e0f-acbc-4a4e7933ac16" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
