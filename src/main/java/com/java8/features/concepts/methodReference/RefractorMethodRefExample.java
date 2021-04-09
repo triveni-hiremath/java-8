@@ -15,6 +15,7 @@ public class RefractorMethodRefExample {
     }
 
     public static void main(String[] args) {
+
         System.out.println(s1.test(StudentDataBase.studentSupplier.get()));
     }
 }

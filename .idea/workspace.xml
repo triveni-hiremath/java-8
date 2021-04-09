@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5391a8b9-bee0-4e0f-acbc-4a4e7933ac16" name="Default Changelist" comment="" />
+    <list default="true" id="5391a8b9-bee0-4e0f-acbc-4a4e7933ac16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/Client4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/DefaultMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/DefaultMethodsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/Interface4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/MultipleInhClient123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/MultipleInheritenceInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/MultipleInheritenceInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/MultipleInheritenceInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/MultiplierClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/defaultstaticmethod/multiplierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/optional/OptionalIfPresentIsPresentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/optional/OptionalMapFlatMapFilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/optional/OptionalOfEmptyNullable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/optional/OptionalorElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/parallelStreams/ParallelSTreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/parallelStreams/ParallelStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/CollectionAndStreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamFilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamLimitAndSkipExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamMapFilterReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamMinMaxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamOfIterateGenerateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsAnyMatchAllMatchNoneMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsFindAnyFindFirstExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsFlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams/StreamsReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamGroupingByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamMaxByAndMinByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamPartitionByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamSummingIntAveragingIntExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamsCountingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamsJoiningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/streams_terminal/StreamsMappingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/data/StudentDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/SupplierFunctionalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/functionInterface/SupplierFunctionalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/methodReference/RefractorMethodRefExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/features/concepts/methodReference/RefractorMethodRefExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +58,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -29,6 +76,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1q4CpBOIswqt998WF7Bhya45sb2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,10 +101,24 @@
       <recent name="com.java8.features.concepts" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java8.features.concepts.defaultstaticmethod" />
       <recent name="com.java8.features.lambda" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaVariableExample2">
+  <component name="RunManager" selected="Application.Client4">
+    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.defaultstaticmethod.Client4" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.concepts.defaultstaticmethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstructorReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.constructorReference.ConstructorReferenceExample" />
       <module name="java-8" />
@@ -68,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerMethodReExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.methodReference.ConsumerMethodReExample" />
+    <configuration name="DefaultMethodsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.defaultstaticmethod.DefaultMethodsExample2" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.concepts.methodReference.*" />
+          <option name="PATTERN" value="com.java8.features.concepts.defaultstaticmethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaVariableExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.lambda.LambdaVariableExample2" />
+    <configuration name="MultipleInhClient123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.defaultstaticmethod.MultipleInhClient123" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.concepts.lambda.*" />
+          <option name="PATTERN" value="com.java8.features.concepts.defaultstaticmethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.methodReference.MethodReferenceExample" />
+    <configuration name="MultiplierClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.defaultstaticmethod.MultiplierClient" />
       <module name="java-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.concepts.methodReference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RefractorMethodRefExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.concepts.methodReference.RefractorMethodRefExample" />
-      <module name="java-8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.concepts.methodReference.*" />
+          <option name="PATTERN" value="com.java8.features.concepts.defaultstaticmethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaVariableExample2" />
+        <item itemvalue="Application.Client4" />
         <item itemvalue="Application.ConstructorReferenceExample" />
-        <item itemvalue="Application.RefractorMethodRefExample" />
-        <item itemvalue="Application.ConsumerMethodReExample" />
-        <item itemvalue="Application.MethodReferenceExample" />
+        <item itemvalue="Application.MultipleInhClient123" />
+        <item itemvalue="Application.DefaultMethodsExample2" />
+        <item itemvalue="Application.MultiplierClient" />
       </list>
     </recent_temporary>
   </component>
